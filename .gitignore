@@ -4,3 +4,9 @@ dist/
 .superpowers/
 *.log
 .DS_Store
+.env
+.env.*
+*.pem
+*.key
+*.p8
+*.p12
